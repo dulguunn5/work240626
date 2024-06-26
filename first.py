@@ -1,1 +1,1 @@
-print("hello world fetch")
+print("hello")
